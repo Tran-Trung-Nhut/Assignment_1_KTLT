@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1677552835 source:c:\users\lenovo x1 carbon\desktop\baitaplon\ktlt\btlttest\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<math.h>
+
